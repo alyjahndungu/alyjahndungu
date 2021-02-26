@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 ### Languages and Tools
-![image](https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg)
+![image width=10](https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg)
 ![image](https://nodejs.org/static/images/logo.svg)
 
 ## Skills and Experience
