@@ -12,5 +12,5 @@
 - ⚡ Fun fact: ...
 -->
 ### Languages and Tools
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+![image](https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg)
 
