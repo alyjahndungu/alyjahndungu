@@ -14,7 +14,7 @@
 
 
 ### Languages and Tools
-<div style="display: flex;flex-wrap: nowrap;  background-color: DodgerBlue;">
+<div style="display: flex; flex-wrap: nowrap; ">
   <div>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399__340.png" width="150" height="100"/>
   </div>
