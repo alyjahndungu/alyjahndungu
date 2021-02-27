@@ -1,5 +1,5 @@
 
-### My Name is Elijah Ndung'u. I have been doing software development for the last two years, i specialize in web based applications and cross-platform mobile applications.I have expirience working with a variety of latest cutting edge development tools and procedures. Over the last two years i have engaged myself with a few projects and managed to develop effective APIs using Spring Boot or NodeJs and Intuitive user interface using ReactJs. My strength is understanding the projects goals and objectives first before undertaking any necessary development practices.
+### My Name is Elijah Ndung'u. I have been doing software development for the last two years, i specialize in web based applications and cross-platform mobile applications.I have expirience working with a variety of latest cutting edge development tools and procedures. Over the last two years i have engaged myself with a few projects and managed to develop effective APIs using Spring Boot or NodeJs and Intuitive user interface using ReactJs. My strength is understanding the projects goals and objectives first before undertaking any necessary development task.
 
 ### ~~Open to opportunities~~  
 
