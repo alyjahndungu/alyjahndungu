@@ -1,12 +1,9 @@
 
-### My Name is Elijah Ndung'u. I have been doing software development for the last two years, i specialize in web based applications and cross-platform mobile applications.I have expirience working with a variety of latest cutting edge development tools and procedures. Over the last two years i have engaged myself with a few projects and managed to develop effective APIs using Spring Boot or NodeJs and Intuitive user interface using ReactJs. My strength is understanding the projects goals and objectives first before undertaking any necessary development task.
+### Hi, I am Elijah. A software engineer with over 2 years of expirience, I specialize in web applications and cross-platform mobile applications.Over the last two years I have engaged myself with a few projects and managed to develop effective APIs using Spring Boot and Intuitive User Interfaces using React.js and currently using Next.js. My strength is understanding the projects goals and objectives first before undertaking any necessary development task.
 
-### ~~Open to opportunities~~  
-
-- 🔭 I’m currently working on a Travel App using React Native
-- 🌱 I’m currently learning Microservices and AWS
-- 👯 I’m looking to collaborate with a strong team
-- 🤔 I’m looking for help with Kubernetes
+- 🔭 I’m currently working on Spring Boot Applications
+- 🌱 I’m currently learning Golang & Microservices
+- 👯 I believe in writing quality code.
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/elijah-ndung-u-472980192/)
 - 😄 Pronouns: ...He/Him
@@ -14,7 +11,7 @@
 
 
 ### Languages and Tools
-<div style="display: flex; flex-wrap: wrap; ">
+<div style="display: flex; flex-wrap: wrap; flex-direction:row ">
   <div>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399__340.png" width="150" height="100"/>
   </div>
