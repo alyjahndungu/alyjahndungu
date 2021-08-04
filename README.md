@@ -15,9 +15,6 @@
   <div>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399__340.png" width="150" height="100"/>
   </div>
-    <div>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400__340.png" width="70" height="70"/>
-  </div> 
       <div>
 <img src="https://i1.wp.com/cdn-images-1.medium.com/max/2000/1*Ukhx76VQ8E6JXEW7xfIzSA.png?ssl=1" width="150" height="70"/>
   </div> 
@@ -28,12 +25,6 @@
   </div> 
   <div>
 <img src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1479" width="100" height="100"/>
-  </div>
-    <div>
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="100" height="100"/>
-  </div>
-   <div>
-<img src="https://d3r49iyjzglexf.cloudfront.net/logo-wordmark-26f8eaea9b0f6e13b90d3f4a8fd8fda31490f5af41daab98bbede45037682576.svg" width="80" height="80"/>
   </div>
   <div>
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70" height="70"/>
