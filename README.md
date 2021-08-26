@@ -1,5 +1,5 @@
 
-### Hi, I am Elijah. A software engineer with over 2 years of expirience, I specialize in both web applications & cross-platform mobile apps. I have the ability to develop effective RESTful APIs using Spring Boot, client side using Next.js and Mobile Apps using React Native.
+### Hi, I am Elijah. A software engineer by proffession, I specialize in both web applications & cross-platform mobile apps. I have the ability to develop effective RESTful APIs using Spring Boot, client side using Next.js and Mobile Apps using React Native.
 
 - 🔭 I’m currently working on Spring Boot Applications
 - 🌱 I’m currently learning Golang & Microservices
