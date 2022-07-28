@@ -1,6 +1,5 @@
 <h1>Technical Skills 🛠</h1>
-   
-I have learned web app development my main focus is writing backend services using tech stacks like Spring Boot and NodeJS
+
 <p align="center"> 
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
