@@ -1,3 +1,10 @@
+
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/elijah-ndung-u-472980192/" target="_blank"> Elijah Ndung'u </a></h1>
+
+A bit about myself, I am <b>Elijah Ndung'u</b> a <b>Software Developer</b> based in Nairobi, Kenya, As of now, I am focused on <b>systems and web development mainly on the server side or backend </b> i enjoy solving problems on realtime basis, I am also passionate in learning new technologies ⚡
+<h3 align="center"> Paasionate Software Developer </h3>
+
+
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
