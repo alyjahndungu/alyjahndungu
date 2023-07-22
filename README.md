@@ -1,7 +1,7 @@
 
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/elijah-ndung-u-472980192/" target="_blank"> Elijah Ndung'u </a></h1>
+<h1 align="center" >Hi there⚡</h1>
 
-A bit about myself, I am <b>Elijah Ndung'u</b> a <b>passionate Software Developer</b> based in Nairobi, Kenya, As of now, I am focused on <b>systems and web development mainly on the server side or backend </b> i enjoy solving problems on realtime basis, I also enjoy exploring and learning new technologies ⚡
+I'm <a href="https://www.linkedin.com/in/elijah-ndung-u-472980192/" target="_blank"> Elijah Ndung'u, </a> an experienced Software Engineer proficient in Java, Spring Boot, Node.js, TypeScript, and JavaScript. My ambition lies in leveraging technology to solve complex problems and create innovative solutions that make a positive impact on people's lives. I'm passionate about pushing the boundaries of what technology can achieve and delivering excellence in every project I undertake. Let's collaborate and make a difference through technology.⚡
 
 <h1>Technical Skills 🛠</h1>
 
